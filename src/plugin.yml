@@ -1,0 +1,11 @@
+name: Splun
+main: me.Jojo.Splun.Main
+version: 1.0
+description: A MiniGame in Minecraft
+author: Jojo191098
+
+commands:
+   Splun:
+     description: A MiniGame in Minecraft
+   Hub:
+     description: A MiniGame in Minecraft
